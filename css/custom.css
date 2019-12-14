@@ -21,3 +21,10 @@ text-decoration: none;
 #sidebarToggleTop {
   color: silver;
 }
+
+@media only screen and (max-width: 600px) {
+  .topbar-brand-text {
+    font-size: 15px;
+  }
+
+}
