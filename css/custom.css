@@ -17,3 +17,7 @@ text-decoration: none;
 #main-page-content {
   margin-top: 72px;
 }
+
+#sidebarToggleTop {
+  color: silver;
+}

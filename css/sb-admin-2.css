@@ -9943,9 +9943,9 @@ a:focus {
   width: 2.5rem;
 }
 
-.topbar #sidebarToggleTop:hover {
+/* .topbar #sidebarToggleTop:hover {
   background-color: #eaecf4;
-}
+} */
 
 .topbar #sidebarToggleTop:active {
   background-color: #dddfeb;
