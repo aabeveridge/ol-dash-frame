@@ -1,0 +1,19 @@
+.topbar-brand-text {
+  font-family: 'Exo 2', sans-serif;
+  color: #83d536;
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+.topbar-brand-text:hover {
+text-decoration: none;
+  color: #83d536;
+}
+
+.top-nav-item {
+  margin-top: 54px;
+}
+
+#main-page-content {
+  margin-top: 72px;
+}
